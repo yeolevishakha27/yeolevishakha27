@@ -29,14 +29,14 @@
 ## 🏆 LeetCode Badges
 
 <p align="center">
-  <img src="./assets/100days image.png" alt="100 Days Badge" width="120"/>
-  <img src="./assets/50 days leetcode.png" alt="50 Days Badge" width="120"/>
-  <img src="./assets/leetcode-march.png" alt="March Badge" width="120"/>
-  <img src="./assets/leetcode-april.png" alt="April Badge" width="120"/>
+  <img src="./assests/100days image.png" alt="100 Days Badge" width="120"/>
+  <img src="./assests/50 days leetcode.png" alt="50 Days Badge" width="120"/>
+  <img src="./assests/leetcode-march.png" alt="March Badge" width="120"/>
+  <img src="./assests/leetcode-april.png" alt="April Badge" width="120"/>
 </p>
 
 <p align="center">
-  <img src="./assets/Screenshot 2025-06-26 133446.png" alt="LeetCode Streak Chart" width="600"/>
+  <img src="./assests/Screenshot 2025-06-26 133446.png" alt="LeetCode Streak Chart" width="600"/>
 </p>
 
 
