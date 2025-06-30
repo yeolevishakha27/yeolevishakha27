@@ -33,6 +33,7 @@
   <img src="./assests/50 days leetcode.png" alt="50 Days Badge" width="120"/>
   <img src="./assests/leetcode-march.png" alt="March Badge" width="120"/>
   <img src="./assests/leetcode-april.png" alt="April Badge" width="120"/>
+  <img src="./assests/leetcode-june.png" alt="June Badge" width="120"/>
 </p>
 
 <p align="center">
