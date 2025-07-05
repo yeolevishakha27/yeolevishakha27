@@ -44,7 +44,7 @@
 ### 🔹 Highlights:
 - ✅ **100 Days Badge**
 - ✅ **50 Days Badge**
-- ✅ Monthly badges (March, April)
+- ✅ Monthly badges (March, April, June)
 - 🔥 **Streak**: Max 65 days
 - 🟢 **321 submissions in 1 year**
 
