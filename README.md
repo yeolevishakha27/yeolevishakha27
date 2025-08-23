@@ -4,10 +4,6 @@
   <em>A consistent learner and aspiring software engineer passionate about Java development, problem-solving, and web technologies.</em>
 </p>
 
-<p align="center">
-  <img src="./assests/Contributor's badge.jpg" alt="GSSoC 2025 Contributor Badge" width="220"/>
-</p>
-
 ---
 
 ## 🏅 Achievements
