@@ -13,6 +13,7 @@
 |----------------------------------------|--------------------|
 | 🎯 **JAGSoM Next Gen Minds**            | Finalist           |
 | 👩‍💻 **All India Women Only Hackathon** | Finalist           |
+| 🎯 **Flipkart Grid 7.O**              | National Semi-Finalist |
 
 ### 🌟 Open Source
 <p align="center">
